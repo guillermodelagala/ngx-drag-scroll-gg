@@ -1,5 +1,5 @@
 {
-  "name": "ngx-drag-scroll-demo",
+  "name": "ngx-drag-scroll-demo-gg",
   "version": "0.0.0",
   "scripts": {
     "postinstall": "husky install",
